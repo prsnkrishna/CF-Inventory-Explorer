@@ -1,0 +1,5 @@
+# Never commit real tenant exports
+*.json
+!sample-data/sample_export.json
+.DS_Store
+Thumbs.db
